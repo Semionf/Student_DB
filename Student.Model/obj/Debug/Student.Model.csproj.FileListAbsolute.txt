@@ -1,0 +1,6 @@
+C:\Users\sfurl\source\repos\StudentsDB\Student.Model\bin\Debug\Student.Model.dll
+C:\Users\sfurl\source\repos\StudentsDB\Student.Model\bin\Debug\Student.Model.pdb
+C:\Users\sfurl\source\repos\StudentsDB\Student.Model\obj\Debug\Student.Model.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\StudentsDB\Student.Model\obj\Debug\Student.Model.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\StudentsDB\Student.Model\obj\Debug\Student.Model.dll
+C:\Users\sfurl\source\repos\StudentsDB\Student.Model\obj\Debug\Student.Model.pdb
